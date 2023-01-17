@@ -1,0 +1,64 @@
+<main>
+
+<div class="container mt-5" >
+    <div class="card glassmorphism text-white mx-auto shadow-2">
+        <div class="card-header text-center">Qui sommes nous ?</div>
+            <div class="card-content">
+              <div class="grix xs1 sm2"></div>
+            <h4>Airvibes , c'est quoi ? </h4>
+            <p>Airvibes est un site spécialisé dans le domaine du tourisme et qui proposes des destinations idéales à bas prix .</p>
+               Ce site n'est qu'un simple exemple et cette organisation n'existe pas  <br>
+
+                <h4>Notre équipe</h4>
+            <p>Notre équipe est composé de personne .Ceci est une simple démo  </p>
+            <br>
+                <h4>Où nous trouver ?</h4>
+                <p>Vous pouvez nous trouver nulle part . Ceci est une simple démo</p>
+
+                <h4>Nos réseaux</h4>
+                <button class="btn btn-circle red light-2 shadow-1">
+                <span class="iconify-inline font-s8" data-icon="mdi:github" style="color: white;"></span>
+</button>
+<button class="btn btn-circle red light-2 shadow-1">
+                <span class="iconify-inline font-s8" data-icon="mdi:email" style="color: white;"></span>
+</button>
+
+<button class="btn btn-circle red light-2 shadow-1">
+                <span class="iconify-inline font-s8" data-icon="mdi:instagram" style="color: white;"></span>
+</button>
+
+<button class="btn btn-circle red light-2 shadow-1">
+                <span class="iconify-inline font-s8" data-icon="bxl:wix" style="color: white;"></span>
+</button>
+
+<br>
+                <h4>Ressources utilisées </h4>
+                <button class="btn shadow-1 white rounded-4 text-white transparent shadow-2 >
+                <a href="../note.txt" download="ressources_airvibes">Télécharger les ressources utilisés </a>
+                </button>
+
+            </div>
+    </div>
+</div>
+      
+</main>
+
+<div class="card-image">
+    <img src="https://picsum.photos/id/0/500/300" class="responsive-media" alt="laptop">
+  </div>
+
+
+  <div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/V31lTNWx1aM?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/V31lTNWx1aM/embed" width="640" height="360"></iframe>
+        </div>
+
+        <audio
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            <a href="/media/cc0-audio/t-rex-roar.mp3">
+                Download audio
+            </a>
+    </audio>
