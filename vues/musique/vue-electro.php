@@ -29,7 +29,7 @@
 <!-----------barre de navigation----------------->
 <nav class="navbar shadow-1 transparent text-white">
 <a href="../../index.php" class="navbar-brand ">Playlist</a>
-  <a href="../../index.php" class="navbar-brand navbar-centered">Latino</a>
+  <a href="../../index.php" class="navbar-brand navbar-centered">Electro</a>
     <div class="navbar-menu ml-auto">
       <a class="navbar-link " href="../../index.php">Accueil</a>
       <a class="navbar-link" href="../vue-liste.php">Retour</a>
