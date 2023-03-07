@@ -5,6 +5,25 @@ RenderForest : video-play.mp4
 Musique : créer par moi même avec l'application Remixlive 
 
 
+Bonus : 
+Si vous voulez ajouter un dropdown dans la liste des genres de musique 
+
+ <div class="dropdown" id="example-dropdown" data-ax="dropdown" data-dropdown-animation-type="fade">
+      <div class="navbar-link " data-target="example-dropdown">
+        Liste
+      </div>
+      <div class="dropdown-content dropdown-right white shadow-1 " style="opacity: 95%; background-color: #8a93d6; color: white;">
+        <a class="dropdown-item" href="vue-pop.php">Pop</a>
+        <a class="dropdown-item" href="vue-electro.php">Electro</a>
+        <a class="dropdown-item" href="vue-jazz.php">Jazz</a>
+        <a class="dropdown-item" href="vue-afro.php">Afro</a>
+        <a class="dropdown-item" href="vue-latino.php">Latino</a>
+        <a class="dropdown-item" href="vue-reggae.php">Reggae</a>
+        <a class="dropdown-item" href="vue-rock.php">Rock</a>
+        <a class="dropdown-item" href="vue-zouk.php">Zouk</a>
+      </div>
+    </div>
+
 arboresence :
 
 index.php --> vue-liste.php --> vue-pop , vue-...
@@ -21,3 +40,5 @@ index.php --> vue-liste.php --> vue-pop , vue-...
 
 
               github : https://github.com/stellaric
+
+
